@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariaveisAmbiente", "VariaveisAmbiente.csproj", "{23E0D6A5-8C69-4A76-A979-6151E22035F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Homol|Any CPU = Homol|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E0D6A5-8C69-4A76-A979-6151E22035F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E0D6A5-8C69-4A76-A979-6151E22035F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E0D6A5-8C69-4A76-A979-6151E22035F9}.Homol|Any CPU.ActiveCfg = Homol|Any CPU
+		{23E0D6A5-8C69-4A76-A979-6151E22035F9}.Homol|Any CPU.Build.0 = Homol|Any CPU
+		{23E0D6A5-8C69-4A76-A979-6151E22035F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E0D6A5-8C69-4A76-A979-6151E22035F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9888075D-438F-418D-82AD-4E656D80BC66}
+	EndGlobalSection
+EndGlobal
